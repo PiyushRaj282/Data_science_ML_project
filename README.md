@@ -12,7 +12,6 @@ It includes data analysis, preprocessing, model building, and evaluation.
 * `Online_advertising_performance.ipynb` – Main notebook with data analysis and model
 * `requirements.txt` – List of required Python packages
 * `data/` – Folder to store datasets
-* `outputs/` – Folder for graphs and model results
 
 ---
 
